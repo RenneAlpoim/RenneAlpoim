@@ -56,7 +56,14 @@ Me chamo Rennê Alpoim de Castro Rodrigues, tenho 30 anos e sou natural de Forta
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="Jupyter" 
+    title="Jupyter"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://images.icon-icons.com/2667/PNG/512/jupyter_app_icon_161280.png" 
+/>
 <br/>
 <br/>
 
