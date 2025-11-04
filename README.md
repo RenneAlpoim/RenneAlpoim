@@ -2,7 +2,7 @@
 
 **`Analista de Dados`**
 
-Me chamo Rennê Alpoim de Castro Rodrigues, tenho 30 anos e sou natural de Fortaleza - CE. Concluí o ensino médio no Colégio Manuelito Azevedo. Atualmente, estou cursando Data Analytics pela Digital College. Sou apaixonado por tecnologia e compartilho meu trajeto pela análise de dados através do meu LinkedIn "[Rennê Alpoim](www.linkedin.com/in/rennealpoim)".
+Me chamo Rennê Alpoim de Castro Rodrigues, tenho 30 anos e sou natural de Fortaleza - CE. Concluí o ensino médio no Colégio Manuelito Azevedo. Atualmente, estou cursando Data Analytics pela Digital College. Sou apaixonado por tecnologia e compartilho meu trajeto pela análise de dados através do meu LinkedIN "[Rennê Alpoim](www.linkedin.com/in/rennealpoim)".
 
 <p align="left">
     <a href="https://github.com/RenneAlpoim?tab=repositories&sort=stargazers">
