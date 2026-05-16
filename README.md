@@ -19,6 +19,15 @@ Sou apaixonado por tecnologia e compartilho meu trajeto pela análise de dados e
     style="padding-right: 10px;" 
     src="https://agail.com.br/wp-content/uploads/2020/12/pdi.png" 
 />
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://pt.wikipedia.org/wiki/Ficheiro:Postgresql_elephant.svg" 
+/>
+
 
 <img 
     align="left" 
