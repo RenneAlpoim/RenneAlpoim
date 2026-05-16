@@ -25,7 +25,7 @@ Sou apaixonado por tecnologia e compartilho meu trajeto pela análise de dados e
     title="PostgreSQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://pt.wikipedia.org/wiki/Ficheiro:Postgresql_elephant.svg" 
+    src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" 
 />
 
 
