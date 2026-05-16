@@ -35,14 +35,14 @@ Sou apaixonado por tecnologia e compartilho meu trajeto pela análise de dados e
     style="padding-right: 10px;" 
     src="https://agail.com.br/wp-content/uploads/2020/12/pdi.png" 
 />
-/>
+
 <img 
     align="left" 
     alt="PostgreSQL" 
     title="PostgreSQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" 
+    src="[https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png](https://banner2.cleanpng.com/20180804/usa/4a4392396e675f74f98c836a446991ec.webp)" 
 />
 
 <img 
