@@ -35,13 +35,6 @@ Sou apaixonado por tecnologia e compartilho meu trajeto pela análise de dados e
     style="padding-right: 10px;" 
     src="https://agail.com.br/wp-content/uploads/2020/12/pdi.png" 
 />
-<img 
-    align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://www.cleanpng.com/png-postgresql-object-relational-database-oracle-datab-6065556/" 
 />
 <img 
     align="left" 
