@@ -41,7 +41,7 @@ Sou apaixonado por tecnologia e compartilho meu trajeto pela análise de dados e
     title="PostgreSQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" 
+    src="https://www.cleanpng.com/png-postgresql-object-relational-database-oracle-datab-6065556/" 
 />
 <img 
     align="left" 
