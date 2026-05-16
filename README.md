@@ -8,22 +8,6 @@ Concluí o curso de Data Analytics pela Digital College.
 Atualmente, estou cursando Ciência da Computação pela Estácio.
 Sou apaixonado por tecnologia e compartilho meu trajeto pela análise de dados e pela ciência da computação através do meu LinkedIN "[Rennê Alpoim](www.linkedin.com/in/rennealpoim)".
 
-<p align="left">
-    <a href="https://github.com/RenneAlpoim?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/RenneAlpoim?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/RenneAlpoim?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/RenneAlpoim?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />   
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -34,15 +18,6 @@ Sou apaixonado por tecnologia e compartilho meu trajeto pela análise de dados e
     width="30px" 
     style="padding-right: 10px;" 
     src="https://agail.com.br/wp-content/uploads/2020/12/pdi.png" 
-/>
-
-<img 
-    align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="[https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png](https://banner2.cleanpng.com/20180804/usa/4a4392396e675f74f98c836a446991ec.webp)" 
 />
 
 <img 
