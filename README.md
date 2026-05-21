@@ -41,7 +41,7 @@ Sou apaixonado por tecnologia e compartilho meu trajeto pela análise de dados e
     title="PowerBi"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://pt.wikipedia.org/wiki/Ficheiro:New_Power_BI_Logo.svg" 
+    src="https://www.streamlinehq.com/icons/download/microsoft-power-bi--31103" 
 />
 <img 
     align="left" 
