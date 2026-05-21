@@ -33,7 +33,7 @@ Sou apaixonado por tecnologia e compartilho meu trajeto pela análise de dados e
     title="Pandas"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://icons8.com/icons/set/pandas" 
+    src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" 
 />
 <img 
     align="left" 
