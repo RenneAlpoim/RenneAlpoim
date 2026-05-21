@@ -27,8 +27,6 @@ Sou apaixonado por tecnologia e compartilho meu trajeto pela análise de dados e
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" 
 />
-
-
 <img 
     align="left" 
     alt="Python" 
@@ -36,6 +34,14 @@ Sou apaixonado por tecnologia e compartilho meu trajeto pela análise de dados e
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PowerBI" 
+    title="PowerBi"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://pt.wikipedia.org/wiki/Ficheiro:New_Power_BI_Logo.svg" 
 />
 <img 
     align="left" 
