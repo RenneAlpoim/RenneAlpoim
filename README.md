@@ -1,6 +1,6 @@
 # 👩🏻‍💻 📊 Rennê Alpoim
 
-**`Data Analytics`** | **`Computer Science** 
+**`Data Analytics`** | **`Computer Science`** 
 
 Me chamo Rennê Alpoim de Castro Rodrigues, tenho 30 anos e sou natural de Fortaleza - CE.
 Concluí o ensino médio no Colégio Manuelito Azevedo.
@@ -47,23 +47,3 @@ Sou apaixonado por tecnologia e compartilho meu trajeto pela análise de dados e
 />
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=RenneAlpoim&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rennealpoim&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
