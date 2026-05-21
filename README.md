@@ -13,14 +13,6 @@ Sou apaixonado por tecnologia e compartilho meu trajeto pela análise de dados e
 ### 🤖 Linguagens e Tecnologias
 <img 
     align="left" 
-    alt="Pentaho" 
-    title="Pentaho"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://agail.com.br/wp-content/uploads/2020/12/pdi.png" 
-/>
-<img 
-    align="left" 
     alt="PostgreSQL" 
     title="PostgreSQL"
     width="30px" 
@@ -37,11 +29,11 @@ Sou apaixonado por tecnologia e compartilho meu trajeto pela análise de dados e
 />
 <img 
     align="left" 
-    alt="PowerBI" 
-    title="PowerBi"
+    alt="Pandas" 
+    title="Pandas"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://www.streamlinehq.com/icons/download/microsoft-power-bi--31103" 
+    src="https://icons8.com/icons/set/pandas" 
 />
 <img 
     align="left" 
